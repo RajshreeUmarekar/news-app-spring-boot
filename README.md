@@ -1,2 +1,2 @@
 # news-app-spring-boot
-Build using GitHub Actions/Jenkins + Deploy to Docker
+Build using GitHub Actions + Deploy to Docker
